@@ -46,10 +46,15 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 </div>
 
 <br>
+
 - 매일 오전 stand-up meeting에서 trello 툴로 작업 진행상황 및 해결 방안 공유 <br>
 - 기획 초반 노션으로 기획의도, 전체적인 컨벤션 정리 <br>
 - 피그마 툴로 레이아웃을 미리 기획/구상 하여 프로젝트 진행 <br>
 
+![ezgif com-video-to-gif](https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/32d93bd9-9b5f-4e7f-aeb3-9b231802bbe9)
+<br>
+
+![ezgif-4-90f10d6a2d](https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/c8426056-54fb-473b-aed2-2c079cce1512)
 
 <br>
 
@@ -64,12 +69,16 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 <br>
 
 
-## Main
+## Main - 이수빈
+<p>
+<img src="https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/30459b5f-2286-4fe9-aab8-98f6a7fe4659" width=60%/></p>
+
 #### 메인 화면에 생동감 있는 영상 표현과 심플한 작품 이미지 위주의 레이아웃 <br>
 - 전면에 영상을 배치하여 사이트를 처음 방문하는 사용자의 관심도를 높임 <br>
 - 2개의 Art / Goods Carousel UI 으로 다양한 콘텐츠를 한눈에 볼 수 있게 구현 <br>
 => 사이트 내부를 적극적으로 홍보할 수 있도록 기획/구현 <br>
 - Carousel 밑의 indicator를 배치하여 사용자에게 현재 위치를 알 수 있게 구현 <br>
+- api 로 이미지를 받아와 데이터 효율적 관리
 
 
 ## Login/Sign Up
@@ -90,7 +99,10 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 - 재고 수량 sold out 시 수량 선택 버튼 블락 처리 <br>
 
 
-## Cart
+
+## Cart - 이수빈
+<p>
+<img src="https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/30459b5f-2286-4fe9-aab8-98f6a7fe4659" width=60%/></p>
 #### 드롭다운 형식으로 사이트 내 탐색을 간소화해 사용자의 경험을 개선한 장바구니
 - 장바구니 수량 추가/ 총 가격 실시간 카운트 / 상품 리스트 삭제 기능 <br>
 - 상품 수에 따른 레이아웃 동적 조정 구현 <br>
