@@ -66,12 +66,12 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 <br>
 
 ## Demo
+
 <br>
 
-
 ## Main - 이수빈
-<p>
-<img src="https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/30459b5f-2286-4fe9-aab8-98f6a7fe4659" width=60%/></p>
+
+https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/d099d05d-73b4-4e05-b4ea-2586455d32d9
 
 #### 메인 화면에 생동감 있는 영상 표현과 심플한 작품 이미지 위주의 레이아웃 <br>
 - 전면에 영상을 배치하여 사이트를 처음 방문하는 사용자의 관심도를 높임 <br>
@@ -101,8 +101,8 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 
 
 ## Cart - 이수빈
-<p>
-<img src="https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/30459b5f-2286-4fe9-aab8-98f6a7fe4659" width=60%/></p>
+
+https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/30459b5f-2286-4fe9-aab8-98f6a7fe4659
 
 #### 드롭다운 형식으로 사이트 내 탐색을 간소화해 사용자의 경험을 개선한 장바구니
 - 장바구니 수량 추가/ 총 가격 실시간 카운트 / 상품 리스트 삭제 기능 <br>
