@@ -184,4 +184,3 @@ Length<br>
 Color: main color<br>
 Thickness: 3px, 4px<br>
 </details>
-
