@@ -67,6 +67,11 @@ Teammates: 탁호진(B), 이원준(F), 문유현(F), 김수정(F), 이경진(F)<
 
 <br>
 
+https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/46f5764a-a7a7-4517-be6a-c31db4f93f32
+
+
+<br/>
+
 ## Main - 이수빈
 
 https://github.com/xxslx/45-1st-rgb-frontend/assets/127685269/d099d05d-73b4-4e05-b4ea-2586455d32d9
