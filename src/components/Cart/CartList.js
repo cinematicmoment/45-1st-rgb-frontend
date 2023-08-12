@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-useless-fragment */
 import { useState, useEffect } from "react";
 import "./Cart.scss";
 import Button from "../Button/Button";
@@ -28,7 +29,7 @@ export default function CartList({ handleClose, setShowCart }) {
     })
       .then(res => res.json())
       .then(data => setItems(data));
-  }, []);
+  }, [token]);
 
   const handleCount = id => {
     const url = `${API_ADDRESS_ORDERS}carts/${items[id].id}`;
@@ -65,8 +66,12 @@ export default function CartList({ handleClose, setShowCart }) {
 
   const increment = id => {
     const newItems = [...items];
-    newItems[id].count++;
-    setItems(newItems);
+    if (newItems[id].count < items[id].inventory) {
+      newItems[id].count++;
+      setItems(newItems);
+    } else {
+      alert(`최대 수량은 ${items[id].inventory}개입니다.`);
+    }
   };
 
   const deleteItem = id => {
@@ -92,7 +97,6 @@ export default function CartList({ handleClose, setShowCart }) {
   }, [items, setShowCart]);
 
   return (
-    // eslint-disable-next-line react/jsx-no-useless-fragment
     <>
       {items.length === 0 || !token ? (
         <div className="cartList">카트가 비어있습니다.</div>
